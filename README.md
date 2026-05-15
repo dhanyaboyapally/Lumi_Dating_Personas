@@ -2,15 +2,13 @@
 
 A persona-to-persona social matching platform built on the **MEAN stack** (MongoDB, Express, Angular, Node) with AI-powered compatibility narratives via the Hugging Face Inference API. On Lumi you don't have one profile — you have selves: a career self, a weekend self, a creative self. Users create up to 5 distinct **selves** and match against other people's selves rather than as a single flat profile.
 
-> **Course:** Web Development II · **Team size:** 3 · **Final due:** May 9, 2026
-
 ## Live demo
 
 | | URL |
 |---|---|
 | Frontend | https://web-dev-ii-final-project-ten.vercel.app |
 | Backend API | https://web-dev-ii-final-project.onrender.com |
-| Walkthrough video | https://youtu.be/N9qntkHDka0 |
+
 
 ## Team & roles
 
